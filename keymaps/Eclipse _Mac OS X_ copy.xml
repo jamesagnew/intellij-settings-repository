@@ -1,7 +1,6 @@
 <keymap version="1" name="Eclipse (Mac OS X) copy" parent="Eclipse (Mac OS X)">
   <action id="Console.Execute" />
   <action id="EditorChooseLookupItem" />
-  <action id="EditorEnter" />
   <action id="GotoFile" />
   <action id="Images.Thumbnails.EnterAction" />
   <action id="NextTab">
@@ -15,7 +14,6 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta f6" />
     <keyboard-shortcut first-keystroke="meta alt left" />
-    <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="RenameElement">
