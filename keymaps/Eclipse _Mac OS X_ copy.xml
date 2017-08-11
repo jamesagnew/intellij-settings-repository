@@ -5,9 +5,6 @@
     <keyboard-shortcut first-keystroke="meta alt right" />
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
-  <action id="NextTemplateVariable">
-    <keyboard-shortcut first-keystroke="tab" />
-  </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta f6" />
     <keyboard-shortcut first-keystroke="meta alt left" />
