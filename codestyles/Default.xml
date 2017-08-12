@@ -2,13 +2,4 @@
   <option name="FIELD_NAME_PREFIX" value="my" />
   <option name="STATIC_FIELD_NAME_PREFIX" value="our" />
   <option name="PARAMETER_NAME_PREFIX" value="the" />
-  <codeStyleSettings language="JAVA">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="3" />
-      <option name="CONTINUATION_INDENT_SIZE" value="6" />
-      <option name="TAB_SIZE" value="3" />
-      <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
 </code_scheme>
