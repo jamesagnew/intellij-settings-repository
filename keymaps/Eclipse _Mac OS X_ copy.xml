@@ -1,6 +1,10 @@
 <keymap version="1" name="Eclipse (Mac OS X) copy" parent="Eclipse (Mac OS X)">
   <action id="FileChooser.GotoHome" />
   <action id="GotoFile" />
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta f6" />
     <keyboard-shortcut first-keystroke="meta alt right" />
