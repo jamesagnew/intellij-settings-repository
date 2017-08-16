@@ -1,9 +1,30 @@
 <keymap version="1" name="Eclipse (Mac OS X) copy" parent="Eclipse (Mac OS X)">
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+  </action>
+  <action id="ExternalSystem.CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
   <action id="FileChooser.GotoHome" />
   <action id="GotoFile" />
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="Maven.CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta f6" />
