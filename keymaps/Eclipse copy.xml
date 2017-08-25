@@ -13,6 +13,11 @@
   <action id="GotoBookmark1" />
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
+  <action id="QuickChangeScheme" />
   <action id="RearrangeCode">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
