@@ -1,4 +1,5 @@
 <keymap version="1" name="Eclipse (Mac OS X) copy" parent="Eclipse (Mac OS X)">
+  <action id="ChangeSignature" />
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
@@ -18,6 +19,9 @@
   <action id="GotoFile" />
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="IntroduceConstant">
+    <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="meta alt l" />
