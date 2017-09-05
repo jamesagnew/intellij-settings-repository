@@ -78,6 +78,46 @@
       <option name="PATTERN" value="org.springframework.transaction.interceptor.*" />
       <option name="ENABLED" value="true" />
     </filter>
+    <filter>
+      <option name="PATTERN" value="org.springframework.data.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springframework.util.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springframework.core.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springframework.transaction.interceptor.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springframework.aop.support.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springframework.aop.framework.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.apache.commons.logging.impl.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="ch.qos.logback.classic.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springframework.orm.jpa.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springframework.jdbc.datasource.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
   </component>
   <component name="XDebuggerSettings">
     <data-views>
