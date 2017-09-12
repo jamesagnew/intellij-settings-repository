@@ -118,6 +118,10 @@
       <option name="PATTERN" value="org.springframework.jdbc.datasource.*" />
       <option name="ENABLED" value="true" />
     </filter>
+    <filter>
+      <option name="PATTERN" value="org.slf4j.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
   </component>
   <component name="XDebuggerSettings">
     <data-views>
