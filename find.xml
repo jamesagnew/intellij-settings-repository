@@ -15,12 +15,8 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*.java,</mask>
       <mask>*.java, *</mask>
       <mask>*.java, *.</mask>
@@ -32,6 +28,10 @@
       <mask>*.java, *.propert</mask>
       <mask>*.java, *.propertie</mask>
       <mask>*.java, *.properties</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
