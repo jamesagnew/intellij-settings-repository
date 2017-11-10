@@ -3,18 +3,12 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="OmopSto*.*" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.java,</mask>
-      <mask>*.java, *.p</mask>
       <mask>*.java, *.pro</mask>
       <mask>*.java, *.prop</mask>
       <mask>*.java, *.prope</mask>
@@ -36,6 +30,15 @@
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xml</mask>
+      <mask>O</mask>
+      <mask>Om</mask>
+      <mask>Omo</mask>
+      <mask>Omop</mask>
+      <mask>OmopS</mask>
+      <mask>OmopSto</mask>
+      <mask>OmopSto*</mask>
+      <mask>OmopSto*.</mask>
+      <mask>OmopSto*.*</mask>
     </recentFileMasks>
   </component>
 </application>
