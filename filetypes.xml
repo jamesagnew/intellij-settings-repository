@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
+      <mapping ext="hl7" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
