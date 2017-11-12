@@ -126,6 +126,10 @@
       <option name="PATTERN" value="org.hibernate.internal.*" />
       <option name="ENABLED" value="true" />
     </filter>
+    <filter>
+      <option name="PATTERN" value="org.springframework.security.access.intercept.aopalliance.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
   </component>
   <component name="XDebuggerSettings">
     <data-views />
