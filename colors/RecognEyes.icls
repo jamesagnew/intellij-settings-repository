@@ -165,6 +165,12 @@
         <option name="FOREGROUND" value="bfa4a4" />
       </value>
     </option>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="e000" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_BRACES">
       <value>
         <option name="FOREGROUND" value="d0d0d0" />
