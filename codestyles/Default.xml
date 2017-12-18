@@ -1,4 +1,4 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <option name="FIELD_NAME_PREFIX" value="my" />
   <option name="STATIC_FIELD_NAME_PREFIX" value="our" />
   <option name="PARAMETER_NAME_PREFIX" value="the" />
@@ -9,6 +9,21 @@
       <package name="javax.swing" withSubpackages="false" static="false" />
     </value>
   </option>
+  <JavaCodeStyleSettings>
+    <option name="FIELD_NAME_PREFIX" value="my" />
+    <option name="STATIC_FIELD_NAME_PREFIX" value="our" />
+    <option name="PARAMETER_NAME_PREFIX" value="the" />
+    <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+      <value>
+        <package name="java.awt" withSubpackages="false" static="false" />
+        <package name="org.junit.Assert" withSubpackages="false" static="true" />
+        <package name="javax.swing" withSubpackages="false" static="false" />
+      </value>
+    </option>
+  </JavaCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <indentOptions>
       <option name="INDENT_SIZE" value="3" />
