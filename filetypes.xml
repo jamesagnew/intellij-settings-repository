@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="ScriptAuthentcationOutcomeJson" type="PLAIN_TEXT" />
       <mapping ext="jwks" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="vm" type="PLAIN_TEXT" />
