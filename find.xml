@@ -2,38 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.java, *.prope</mask>
-      <mask>*.java, *.proper</mask>
-      <mask>*.java, *.propert</mask>
-      <mask>*.java, *.propertie</mask>
-      <mask>*.java, *.properties</mask>
-      <mask>*.java,</mask>
-      <mask>*.java, *</mask>
-      <mask>*.java, *.</mask>
-      <mask>*.java, *.xml</mask>
-      <mask>p</mask>
-      <mask>pom,x</mask>
-      <mask>pom,</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.xml</mask>
-      <mask>O</mask>
-      <mask>Om</mask>
-      <mask>Omo</mask>
-      <mask>Omop</mask>
-      <mask>OmopS</mask>
-      <mask>OmopSto</mask>
-      <mask>OmopSto*</mask>
-      <mask>OmopSto*.</mask>
-      <mask>OmopSto*.*</mask>
-      <mask>*.xm</mask>
-      <mask>*</mask>
-      <mask>*.xml</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.java</mask>
-    </recentFileMasks>
   </component>
 </application>
