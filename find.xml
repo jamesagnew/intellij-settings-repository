@@ -11,6 +11,9 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
+    <mask>*.java, *.md</mask>
+    <mask>*Test.java</mask>
+    <mask>*Entity.java</mask>
     <mask>*.java</mask>
   </component>
 </application>
