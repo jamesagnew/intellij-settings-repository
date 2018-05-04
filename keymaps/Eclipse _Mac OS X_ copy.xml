@@ -12,10 +12,16 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="shift meta equals" />
   </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
   <action id="ExternalSystem.CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="FileChooser.GotoHome" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
   <action id="GotoFile" />
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
