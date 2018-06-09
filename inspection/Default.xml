@@ -13,5 +13,6 @@
   <inspection_tool class="PointlessBooleanExpression" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="m_ignoreExpressionsContainingConstants" value="true" />
   </inspection_tool>
+  <inspection_tool class="SimplifiableJUnitAssertion" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SwitchStatementWithConfusingDeclaration" enabled="true" level="WARNING" enabled_by_default="true" />
 </profile>
