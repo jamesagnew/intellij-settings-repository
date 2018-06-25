@@ -5,6 +5,7 @@
       <mapping pattern="ScriptAuthentcationOutcomeJson" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="303-add-hapi-fhir-cli-commands-to-smileutil" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping ext="jwks" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="vm" type="PLAIN_TEXT" />
