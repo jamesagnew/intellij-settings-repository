@@ -1,5 +1,7 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://www.puppycrawl.com/dtds/configuration_1_3.dtd" location="$USER_HOME$/Library/Caches/IdeaIC2018.1/extResources/1524e8b2_configuration_1_3.dtd" />
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/Library/Caches/IdeaIC2018.1/extResources/9b192256_xml.xsd" />
+    <resource url="http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" location="$USER_HOME$/Library/Caches/IdeaIC2018.1/extResources/27c071c8_web-app_3_1.xsd" />
   </component>
 </application>
