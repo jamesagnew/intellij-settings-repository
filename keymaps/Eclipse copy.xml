@@ -2,6 +2,7 @@
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="shift alt left" />
+    <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="CloseActiveTab" />
   <action id="CloseContent">
@@ -17,6 +18,7 @@
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="shift alt right" />
+    <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="GotoBookmark1" />
   <action id="GotoNextError">
