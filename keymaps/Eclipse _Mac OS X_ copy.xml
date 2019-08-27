@@ -1,51 +1,16 @@
 <keymap version="1" name="Eclipse (Mac OS X) copy" parent="Eclipse (Mac OS X)">
   <action id="ChangeSignature" />
-  <action id="CollapseAll">
-    <keyboard-shortcut first-keystroke="meta subtract" />
-  </action>
-  <action id="CollapseRegion">
-    <keyboard-shortcut first-keystroke="meta subtract" />
-  </action>
-  <action id="EditorDecreaseFontSize">
-    <keyboard-shortcut first-keystroke="meta minus" />
-  </action>
-  <action id="EditorIncreaseFontSize">
-    <keyboard-shortcut first-keystroke="shift meta equals" />
-  </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
   </action>
-  <action id="ExternalSystem.CollapseAll">
-    <keyboard-shortcut first-keystroke="meta subtract" />
-  </action>
-  <action id="FileChooser.GotoHome" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="GotoFile" />
-  <action id="Images.Editor.ZoomOut">
-    <keyboard-shortcut first-keystroke="meta subtract" />
-  </action>
   <action id="IntroduceConstant">
     <keyboard-shortcut first-keystroke="meta alt c" />
   </action>
-  <action id="IntroduceVariable">
-    <keyboard-shortcut first-keystroke="meta alt l" />
-    <keyboard-shortcut first-keystroke="shift meta l" />
-  </action>
-  <action id="Maven.CollapseAll">
-    <keyboard-shortcut first-keystroke="meta subtract" />
-  </action>
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="meta f6" />
-    <keyboard-shortcut first-keystroke="meta alt right" />
-    <keyboard-shortcut first-keystroke="ctrl page_down" />
-  </action>
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="shift meta f6" />
-    <keyboard-shortcut first-keystroke="meta alt left" />
-    <keyboard-shortcut first-keystroke="ctrl page_up" />
-  </action>
+  <action id="ModifyObject" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="shift meta r" />
