@@ -5,6 +5,7 @@
       <blacklist language="Java">
         <added pattern="ca.uhn.fhir.jpa.dao.SearchFilterSyntaxTest.testParse(expression)" />
         <added pattern="ca.uhn.fhir.jpa.term.TerminologySvcDeltaR4Test.assertHierarchyContains(theVs,theStrings)" />
+        <added pattern="ca.uhn.fhir.jpa.term.TerminologySvcDeltaR4Test.assertHierarchyContains(theStrings)" />
       </blacklist>
       <blacklist language="Angular HTML Template" />
       <blacklist language="JavaScript" />
