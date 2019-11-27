@@ -19,9 +19,9 @@
     <mask>*.java, *.md</mask>
     <mask>*Test.java</mask>
     <mask>*Entity.java</mask>
-    <mask>*.java</mask>
     <mask>ValidationSupp*.java</mask>
     <mask>*.xml</mask>
     <mask>*.md</mask>
+    <mask>*.java</mask>
   </component>
 </application>
