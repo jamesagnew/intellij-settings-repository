@@ -17,8 +17,8 @@
     <mask>*.md</mask>
     <mask>*.yaml</mask>
     <mask>*.xml</mask>
-    <mask>*Test.java</mask>
     <mask>*.java</mask>
     <mask>*.html</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
