@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
@@ -18,12 +16,12 @@
     <mask>*.java, *.md</mask>
     <mask>*Entity.java</mask>
     <mask>ValidationSupp*.java</mask>
-    <mask>*.md</mask>
     <mask>*.yaml</mask>
     <mask>*.xml</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
     <mask>*Test.java</mask>
     <mask>*IT.java</mask>
+    <mask>*.md</mask>
   </component>
 </application>
