@@ -1,6 +1,5 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="13" />
     <option name="LINE_SPACING" value="0.9" />
   </component>
   <component name="EditorSettings">
