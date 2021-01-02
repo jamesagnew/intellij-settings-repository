@@ -8,6 +8,8 @@
       <mapping ext="mc" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
+      <removed_mapping ext="csv" approved="true" type="CSV" />
+      <removed_mapping ext="tsv" approved="true" type="TSV" />
     </extensionMap>
   </component>
 </application>
