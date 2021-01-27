@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.md" />
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
@@ -18,9 +19,9 @@
     <mask>*IT.java</mask>
     <mask>*.yaml</mask>
     <mask>*.xml</mask>
-    <mask>*.md</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.md</mask>
   </component>
 </application>
