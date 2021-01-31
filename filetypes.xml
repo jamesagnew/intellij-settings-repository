@@ -8,6 +8,7 @@
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="mc" type="PLAIN_TEXT" />
+      <mapping ext="jwks" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
