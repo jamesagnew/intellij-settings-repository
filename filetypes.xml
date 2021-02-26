@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="jwks" type="JSON" />
       <mapping ext="jks" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -9,11 +10,11 @@
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="mc" type="PLAIN_TEXT" />
-      <mapping ext="jwks" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
+      <removed_mapping ext="jwks" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="tsv" approved="true" type="TSV" />
     </extensionMap>
   </component>
