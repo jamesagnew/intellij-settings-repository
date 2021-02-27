@@ -19,8 +19,8 @@
     <mask>*.yaml</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>pom.xml</mask>
     <mask>*.md</mask>
     <mask>*.java</mask>
-    <mask>pom.xml</mask>
   </component>
 </application>
