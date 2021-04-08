@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="jwks" type="JSON" />
       <mapping ext="jks" type="JSON" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
