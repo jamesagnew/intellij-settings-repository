@@ -10,6 +10,11 @@
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <codeStyleSettings language="JAVA">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="3" />
+      <option name="TAB_SIZE" value="3" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
     <arrangement>
       <rules>
         <section>
