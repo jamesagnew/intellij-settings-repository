@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="webp_" type="AUTO_DETECTED" />
       <mapping ext="jwks" type="JSON" />
       <mapping ext="jks" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
