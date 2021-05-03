@@ -11,6 +11,7 @@
     <option name="INLINE_METHOD_THIS" value="true" />
     <option name="INLINE_FIELD_THIS" value="true" />
     <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_CONSTANT_MOVE_TO_ANOTHER_CLASS" value="true" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
 </application>
