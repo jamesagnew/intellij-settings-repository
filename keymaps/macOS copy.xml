@@ -6,6 +6,9 @@
   <action id="EditorToggleUseSoftWraps">
     <keyboard-shortcut first-keystroke="ctrl meta alt w" />
   </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="ctrl meta f3" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="meta comma" />
