@@ -20,8 +20,8 @@
     <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>pom.xml</mask>
-    <mask>*.md</mask>
     <mask>*.java</mask>
     <mask>*.vm</mask>
+    <mask>*.md</mask>
   </component>
 </application>
