@@ -5,5 +5,14 @@
         <option name="showCalleesList" value="false" />
       </call-tree-ui>
     </option>
+    <option name="threadListOptions">
+      <thread-list>
+        <option name="sortMetrics">
+          <map>
+            <entry key="samplesCountMetric" value="true" />
+          </map>
+        </option>
+      </thread-list>
+    </option>
   </component>
 </application>
