@@ -5,23 +5,24 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.jsp</mask>
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.js</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.java, *.md</mask>
     <mask>*Entity.java</mask>
     <mask>ValidationSupp*.java</mask>
-    <mask>*.html</mask>
     <mask>*IT.java</mask>
     <mask>*.yaml</mask>
-    <mask>*.xml</mask>
-    <mask>*.properties</mask>
     <mask>*.vm</mask>
     <mask>*.md</mask>
-    <mask>*.java</mask>
     <mask>pom.xml</mask>
     <mask>*Test.java</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
   </component>
 </application>
