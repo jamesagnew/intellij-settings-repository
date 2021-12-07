@@ -204,51 +204,6 @@
       <option name="INCLUDE" value="true" />
     </filter>
     <filter>
-      <option name="PATTERN" value="kotlin.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="kotlin.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="kotlin.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="kotlin.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="kotlin.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="kotlin.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="kotlin.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="kotlin.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="kotlin.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
       <option name="PATTERN" value="ch.qos.logback.*" />
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
@@ -258,14 +213,14 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="oracle">
-        <configuration>
-          <option name="steppingPauseAtBegin" value="true" />
-        </configuration>
-      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
+        </configuration>
+      </debugger>
+      <debugger id="oracle">
+        <configuration>
+          <option name="steppingPauseAtBegin" value="true" />
         </configuration>
       </debugger>
     </debuggers>
