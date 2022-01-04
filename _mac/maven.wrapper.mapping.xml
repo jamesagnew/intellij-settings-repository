@@ -1,0 +1,9 @@
+<application>
+  <component name="MavenWrapperMapping">
+    <option name="mapping">
+      <map>
+        <entry key="https://repo1.maven.org/maven2/org/apache/maven/apache-maven/3.5.4/apache-maven-3.5.4-bin.zip" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.5.4-bin/jl1qqhdeineh9qg83dtj7i91c/apache-maven-3.5.4" />
+      </map>
+    </option>
+  </component>
+</application>
