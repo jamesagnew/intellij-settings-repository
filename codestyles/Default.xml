@@ -249,6 +249,16 @@
         <section>
           <rule>
             <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <STATIC>true</STATIC>
+              </AND>
+            </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
               <CLASS>true</CLASS>
             </match>
           </rule>
@@ -258,16 +268,6 @@
             <match>
               <AND>
                 <CLASS>true</CLASS>
-                <STATIC>true</STATIC>
-              </AND>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <AND>
-                <METHOD>true</METHOD>
                 <STATIC>true</STATIC>
               </AND>
             </match>
