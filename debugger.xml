@@ -210,8 +210,9 @@
     </filter>
   </component>
   <component name="NodeRendererSettings">
-    <Renderer ID="ToStringRenderer">
-      <option name="ON_DEMAND" value="true" />
+    <Renderer ID="ClassRenderer">
+      <option name="SHOW_STATIC" value="true" />
+      <option name="SHOW_DECLARED_TYPE" value="true" />
     </Renderer>
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundNodeRenderer">
