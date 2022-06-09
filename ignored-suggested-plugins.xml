@@ -6,6 +6,7 @@
         <option value="com.haulmont.jpab" />
         <option value="com.intellij.javaee.ejb" />
         <option value="com.intellij.javaee.batch" />
+        <option value="aws.toolkit" />
       </list>
     </option>
   </component>
