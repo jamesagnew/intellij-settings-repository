@@ -16,7 +16,6 @@
     <mask>*.vm</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*Test.java</mask>
@@ -25,5 +24,6 @@
     <mask>*.json</mask>
     <mask>*.md</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
