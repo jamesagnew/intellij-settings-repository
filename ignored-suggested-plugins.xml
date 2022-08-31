@@ -7,6 +7,7 @@
         <option value="com.intellij.javaee.ejb" />
         <option value="com.intellij.javaee.batch" />
         <option value="aws.toolkit" />
+        <option value="com.microsoft.tooling.msservices.intellij.azure" />
       </list>
     </option>
   </component>
