@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -14,7 +15,6 @@
     <mask>*Entity.java</mask>
     <mask>ValidationSupp*.java</mask>
     <mask>*IT.java</mask>
-    <mask>*.yaml</mask>
     <mask>*.vm</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -27,5 +27,6 @@
     <mask>*.xml</mask>
     <mask>*.md</mask>
     <mask>*.java</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
