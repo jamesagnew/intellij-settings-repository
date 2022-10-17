@@ -12,7 +12,6 @@
     <mask>*Entity.java</mask>
     <mask>ValidationSupp*.java</mask>
     <mask>*IT.java</mask>
-    <mask>*.vm</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -25,5 +24,6 @@
     <mask>*.md</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>*.vm</mask>
   </component>
 </application>
